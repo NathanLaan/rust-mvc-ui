@@ -1,0 +1,9 @@
+[package]
+name = "mvc-ui-app"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+authors = ["Nathan Laan"]
+
+[dependencies]
+mvc-ui-lib = { path = "../mvc-ui-lib" }

@@ -1,5 +1,5 @@
 //!
-//!
+//! Rust MVC-UI
 //!
 use crate::control::Control;
 
